@@ -1,2 +1,2 @@
 # Wine Quality Prediction
- Wine Quality Prediction using Machine Learning
+ Wine Quality Prediction using K-Nearest Neigbours Algorithm
